@@ -19,4 +19,4 @@ Um modelo com o schema dos atributos que o objeto do produto deve receber está 
 
 
 ## Testando o código
-Testes unitários não são obrigatórios mas caso sejão feitos, contarão como bônus.
+Testes unitários não são obrigatórios mas caso sejam feitos, contarão como bônus.
